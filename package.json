@@ -31,7 +31,7 @@
   "license": "ISC",
   "workspaces": 
      [
-      "ch03-1","ch05", "ch06" ]
+      "ch03-1","ch05", "ch06", "ch07","ch08" ]
   ,
   
   "bugs": {
