@@ -5,3 +5,4 @@ export { writeFile } from "./writeFile";
 export { readFile } from "./readFile";
 export { appendFile } from "./appendFile";
 export { deleteFile } from "./deleteFile";
+export {readFileGenerator} from "./readFileGenerator"
