@@ -1,7 +1,6 @@
 import * as path from "path";
 import { writeFile } from "../fileApi/writeFile";
 import { mkdir } from "../fileApi/mkdir";
-import mkdirp = require("mkdirp");
 
 const writeTest = async (filename: string, data: any) => {
   const result = await writeFile(filename, data);

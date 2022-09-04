@@ -1,9 +1,7 @@
-import { fileExists } from "./fileExists";
-import { mkdir } from "./mkdir";
-import { rmdir } from "./rmdir";
-import { writeFile } from "./writeFile";
-import { readFile } from "./readFile";
-import { appendFile } from "./appendFile";
-import { deleteFile } from "./deleteFile";
-
-export * from ".";
+export { fileExists } from "./fileExists";
+export { mkdir } from "./mkdir";
+export { rmdir } from "./rmdir";
+export { writeFile } from "./writeFile";
+export { readFile } from "./readFile";
+export { appendFile } from "./appendFile";
+export { deleteFile } from "./deleteFile";
