@@ -3,5 +3,5 @@ export interface IFake {
   email: string;
   sentence: string;
   profession: string;
-  birthday: Date;
+  birthday: string;
 }

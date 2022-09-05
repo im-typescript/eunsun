@@ -44,7 +44,6 @@ function readLine(
         } else {
             line += temp
             position += temp.length
-              throw new Error("Function not implemented.");
         }
     } else {
         position = -1 //end of file
